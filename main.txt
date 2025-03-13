@@ -1,0 +1,10 @@
+this is shared project task document: 
+Contributor of the project include:
+                        1. Raj Sharma
+Add here your name ==>
+
+Task:
+1. create a window application to show the live feed of the device camera. (remaining)
+
+Note :
+If any one did the task write done in the bracket of the task section and inform in the group.
