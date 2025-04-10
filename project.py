@@ -23,11 +23,11 @@ Label(t1f3,text="test").pack()
 
 
 
-
+# tab 1 frame 1
 t1f1.grid(row=0,column=0,rowspan=2,sticky="nsew",padx=4,pady=4)
-
+# tab 1 frame 2
 t1f2.grid(row=0,column=1,sticky="nsew",padx=4,pady=4)
-
+# tab 2 frame 3
 t1f3.grid(row=1,column=1,sticky="nsew",padx=4,pady=4)
 
 
