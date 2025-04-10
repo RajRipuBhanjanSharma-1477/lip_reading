@@ -5,7 +5,7 @@ Contributor of the project include:
 Add here your name ==>
 
 Task: (if any task seem to have multiple step then break those task into do able task and update it in the document)
-1. show the live feed of the device camera in tab 1 frame 1. (currently working)
+1. show the live feed of the device camera in tab 1 frame 1. (work done)
 2. add start button to start the default live camera stream
 3. show the live audio plot below the live camera feed when start button is press.
 4. create res folder dynamicly
