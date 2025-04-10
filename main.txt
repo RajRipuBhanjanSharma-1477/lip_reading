@@ -6,10 +6,11 @@ Add here your name ==>
 
 Task: (if any task seem to have multiple step then break those task into do able task and update it in the document)
 1. show the live feed of the device camera in tab 1 frame 1. (remaining)
-2. show the live audio plot below the live camera feed.
-3. create res folder dynamicly
-3. add record button and functionality of recording to the button in the tab 1 and frame 1 (including combine video and audio and save it in res folder).
-4. 
+2. add start button to start the default live camera stream
+3. show the live audio plot below the live camera feed when start button is press.
+4. create res folder dynamicly
+5. add record button and functionality of recording to the button in the tab 1 and frame 1 (including combine video and audio and save it in res folder).
+6. add task whatever you are doing.....
 
 
 
