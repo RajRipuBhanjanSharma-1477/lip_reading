@@ -17,3 +17,20 @@ Task: (if any task seem to have multiple step then break those task into do able
 
 Note :
 If any one did the task write done in the bracket of the task section and inform in the group.
+
+
+
+
+
+
+
+
+
+libary for running project.py
+
+
+pip install opencv-python
+pip install opencv-contrib-python
+pip install pillow
+pip install pygame
+pip install pyaudio
