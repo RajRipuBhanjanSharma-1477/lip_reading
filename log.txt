@@ -1,7 +1,7 @@
 this is shared project task document: 
 Contributor of the project include:
                         1. Raj Sharma 
-                        2. Pratik Waghmare
+                        2. Pratik Waghmare (working)
 Add here your name ==>
 
 Task: (if any task seem to have multiple step then break those task into do able task and update it in the document)
